@@ -1,8 +1,9 @@
 {
-  "homepage": "https://Mk2619/github.io/WeatherApp",
+  
   "name": "weatherapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Mk2619/github.io/WeatherApp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
