@@ -1,9 +1,8 @@
 {
-  
   "name": "weatherapp",
   "version": "0.1.0",
   "private": true,
-  
+  "homepage": "http://Mk2619.github.io/react-weatherapp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -14,13 +13,10 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Mk2619/github.io/WeatherApp",
-
-
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
